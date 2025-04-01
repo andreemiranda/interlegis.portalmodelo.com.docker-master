@@ -107,3 +107,8 @@ docker-compose logs -f
 ## Contribuindo
 
 Aceitamos Pull Requests e Issues!
+
+## Dados de acesso
+
+Usuário: admin
+senha: admin

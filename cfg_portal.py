@@ -4,8 +4,8 @@
 Ele eh utilzado na opcao post-extras da receita collective.recipe.plonesite. 
 Sera executado depois de rodar o perfil QuickInstaller e o GenericSetup.
 
-Autor:  Fabio Rauber
-E-mail: fabiorauber@gmail.com
+Autor:  André Miranda
+E-mail: andrehmiranda@aol.com
 
 @param portal: O Plone site como definido pela opcao site-id.
 @param app: Raiz do Zope

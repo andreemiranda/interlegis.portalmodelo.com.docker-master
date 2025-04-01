@@ -1,6 +1,6 @@
 FROM interlegis/plone:4.3.6
 
-MAINTAINER "Fabio Rauber" <fabiorauber@gmail.com>
+MAINTAINER "André Mireanda" <andrehmiranda@aol.com>
 
 USER root
 
